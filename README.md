@@ -1,5 +1,5 @@
 # 💫 About Me:
--Hey! I am Vengence just kidding... 👋<br><br>-Electronics Undergrade student building ML apps ; prototyping edge‑AI on ESP32, STM32H7.<br><br>-Open‑source and GSoC‑curious; exploring edge‑AI orgs to build real‑world ML tooling projects.<br>
+-Hey! I am Vengence just kidding... 👋<br><br>-Electronics Undergrade building ML models ; prototyping edge‑AI on ESP32, STM32H7.<br><br>-Open‑source and GSoC‑curious; exploring edge‑AI orgs to build real‑world ML tooling projects.<br>
 
 
 # 💻 Tech Stack:
